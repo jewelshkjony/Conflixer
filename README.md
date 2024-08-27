@@ -1,13 +1,13 @@
-# 💥 Conflixer
-A fast &amp; lightweight tool to resolve conflicts between two extensions.
+# 💥 Conflixer : A Powerful Tool To Resolve Conflicts Between Extensions
+A CLI-tool for extension developers and extension users to quickly resolve conflicts between extensions.
 
 ![image](https://github.com/user-attachments/assets/e03f4cd8-efdf-438d-b5d8-d0bde1ac84bf)
 
-## Installation
+## 💾 Installation
 > **Note**: Before installing Enhancer, make sure that you've JDK 8 or above installed.
 
 
-### Windows
+### 🪟 Windows
 1. In the PowerShell, run:
 
     ```ps1
@@ -16,7 +16,7 @@ A fast &amp; lightweight tool to resolve conflicts between two extensions.
 
 2. To run Conflixer write `Conflixer` on terminal.
 
-### Linux and macOS
+### 💻 Linux and macOS
 1. In the terminal, run:
 
     ```sh
@@ -25,7 +25,7 @@ A fast &amp; lightweight tool to resolve conflicts between two extensions.
 
 2. To run Conflixer write `chmod +x Conflixer.sh` on terminal.
 
-## Quick start
+## 🏃‍➡️ Quick start
 Now, that you've installed Conflixer, let's try this tool.
 
 1. Open the terminal and write `Conflixer`.
